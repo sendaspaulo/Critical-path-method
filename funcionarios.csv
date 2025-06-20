@@ -1,83 +1,81 @@
 Nome,HorasPorDia,Setores
-Funcionario26,8,B
-Funcionario28,5,B
-Funcionario67,6,C
-Funcionario58,8,D
-Funcionario32,6,"B, C"
-Funcionario31,8,"A, C"
-Funcionario63,8,"A, C"
-Funcionario14,8,A
-Funcionario78,8,"A, B, C"
-Funcionario33,5,B
-Funcionario65,6,A
-Funcionario79,6,"A, B, C"
-Funcionario7,4,"A, C"
-Funcionario34,6,C
-Funcionario62,5,D
-Funcionario72,8,"A, B"
-Funcionario50,8,D
-Funcionario73,6,C
-Funcionario53,6,D
-Funcionario11,5,C
-Funcionario19,4,A
-Funcionario61,8,"B, C"
-Funcionario40,8,B
-Funcionario59,6,A
-Funcionario3,5,A
-Funcionario56,7,A
-Funcionario39,4,"B, C"
-Funcionario75,8,A
-Funcionario25,4,"A, B"
-Funcionario43,4,B
-Funcionario48,8,C
-Funcionario10,8,C
-Funcionario27,7,C
-Funcionario22,6,"A, B, C"
-Funcionario24,6,"A, C"
-Funcionario35,8,A
-Funcionario49,6,"B, C"
-Funcionario15,4,C
-Funcionario77,7,D
-Funcionario2,8,C
-Funcionario16,7,B
-Funcionario38,8,"A, B"
-Funcionario37,6,B
-Funcionario13,8,"A, B, C"
-Funcionario46,8,B
-Funcionario64,7,B
-Funcionario23,8,D
-Funcionario71,8,A
-Funcionario29,8,A
-Funcionario42,8,A
-Funcionario12,8,"A, B, C"
-Funcionario4,8,"A, B, C"
-Funcionario69,8,C
-Funcionario60,8,"A, B"
-Funcionario8,6,A
-Funcionario18,8,A
-Funcionario5,6,"A, B"
-Funcionario70,8,"A, B"
-Funcionario52,8,"B, C"
-Funcionario17,8,A
-Funcionario66,8,"A, C"
-Funcionario54,8,A
-Funcionario20,7,"A, B, C"
-Funcionario80,8,"A, C"
-Funcionario6,8,A
-Funcionario51,8,B
-Funcionario9,8,C
-Funcionario30,8,C
-Funcionario45,8,"A, B"
-Funcionario36,8,"A, B"
-Funcionario74,8,"A, B, C"
-Funcionario55,8,C
-Funcionario47,8,A
-Funcionario68,8,"A, B"
-Funcionario44,8,C
-Funcionario76,8,B
-Funcionario21,8,B
-Funcionario41,8,B
-Funcionario1,8,C
-Funcionario57,8,A
-Funcionario81,8,"A, B, C"
-Funcionario82,8,"A, B, C"
+Marcelo Jesus,7,"A, B"
+Isabela Teixeira,8, D
+Natália Oliveira,7,A
+Nelson Esteves,8,D
+Fernanda Nogueira,4,D
+Leandro Iglesias,4, D
+Paula Zanon,8,B
+Isabela Barbosa,7,"B, C"
+Alberto Ferreira,8,"A, B, C"
+Yasmin Medeiros,7,A
+Beatriz Nogueira,8,"A, B, C"
+Beatriz Ramos,8,"A, B"
+Rafael Almeida,7,C
+Sabrina Jesus,4,B
+Denise Vieira,4,"A, B, C"
+William Cardoso,4,C
+Gabriel Lima,6,"A, B"
+Marta Ramos,7,A
+Natália Pereira,4,C
+Larissa Almeida,6,A
+João Iglesias,8,A
+Caio Gomes,5,C
+Fábio Esteves,4,A
+Eduardo Zanon,7,A
+Alberto Oliveira,4,A
+Alberto Barbosa,7,"A, B, C"
+Natália Klein,6,D
+Rafael Ferreira,4,"A, B, C"
+Otávio Ramos,7,C
+João Gomes,4,C
+Marcelo Uchoa,4,B
+Ana Jesus,4,B
+Marcelo Xavier,4,"A, C"
+Isabela Xavier,5,"A, B, C"
+Helena Vieira,5,A
+Rafael Teixeira,4,A
+Karen Barbosa,4,"A, B"
+Otávio Oliveira,8,D
+Kleber Vieira,4,B
+Natália Uchoa,5,B
+Kleber Ferreira,7,A
+Alberto Pereira,5,B
+Caio Nogueira,4,D
+Isabela Pereira,8,"B, C"
+Igor Jesus,4,C
+Eduardo Nogueira,6,A
+Eduardo Pereira,5,C
+William Almeida,6,C
+Fernanda Lima,5,A
+Fernanda Xavier,5,"A, B"
+Helena Klein,5,"A, B, C"
+Vinícius Iglesias,7,"A, B, C"
+Yasmin Jesus,4,D
+Natália Almeida,7,C
+Júlia Barbosa,6,"A, B"
+Olívia Vieira,6,A
+Zeca Pereira,4,C
+Kleber Barbosa,4,"A, B"
+Marta Vieira,7,B
+Isabela Vieira,6,C
+Caio Lima,5,D
+Gabriel Dias,6,C
+Ana Klein,4,A
+Pedro Medeiros,8,B
+Denise Gomes,4,"B, C"
+Gustavo Ferreira,8,"B, C"
+Beatriz Henrique,6,B
+Ana Nogueira,7,B
+Rafael Vieira,6,A
+Olívia Cardoso,8,"B, C"
+Igor Gomes,6,C
+Otávio Barbosa,7,A
+Fábio Cardoso,7,B
+Fábio Barbosa,4,B
+Daniel Yamada,7,A
+Alberto Dias,8,A
+Gustavo Pereira,7,C
+Daniel Oliveira,7,"A, B, C"
+William Silva,7,A
+Vinícius Almeida,5,D
