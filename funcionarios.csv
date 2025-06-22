@@ -1,81 +1,41 @@
 Nome,HorasPorDia,Setores
-Marcelo Jesus,7,"A, B"
-Isabela Teixeira,8, D
-Natália Oliveira,7,A
-Nelson Esteves,8,D
-Fernanda Nogueira,4,D
-Leandro Iglesias,4, D
-Paula Zanon,8,B
-Isabela Barbosa,7,"B, C"
-Alberto Ferreira,8,"A, B, C"
-Yasmin Medeiros,7,A
-Beatriz Nogueira,8,"A, B, C"
-Beatriz Ramos,8,"A, B"
-Rafael Almeida,7,C
-Sabrina Jesus,4,B
-Denise Vieira,4,"A, B, C"
-William Cardoso,4,C
-Gabriel Lima,6,"A, B"
-Marta Ramos,7,A
-Natália Pereira,4,C
-Larissa Almeida,6,A
-João Iglesias,8,A
-Caio Gomes,5,C
-Fábio Esteves,4,A
-Eduardo Zanon,7,A
-Alberto Oliveira,4,A
-Alberto Barbosa,7,"A, B, C"
-Natália Klein,6,D
-Rafael Ferreira,4,"A, B, C"
-Otávio Ramos,7,C
-João Gomes,4,C
-Marcelo Uchoa,4,B
-Ana Jesus,4,B
-Marcelo Xavier,4,"A, C"
-Isabela Xavier,5,"A, B, C"
-Helena Vieira,5,A
-Rafael Teixeira,4,A
-Karen Barbosa,4,"A, B"
-Otávio Oliveira,8,D
-Kleber Vieira,4,B
-Natália Uchoa,5,B
-Kleber Ferreira,7,A
-Alberto Pereira,5,B
-Caio Nogueira,4,D
-Isabela Pereira,8,"B, C"
-Igor Jesus,4,C
-Eduardo Nogueira,6,A
-Eduardo Pereira,5,C
-William Almeida,6,C
-Fernanda Lima,5,A
-Fernanda Xavier,5,"A, B"
-Helena Klein,5,"A, B, C"
-Vinícius Iglesias,7,"A, B, C"
-Yasmin Jesus,4,D
-Natália Almeida,7,C
-Júlia Barbosa,6,"A, B"
-Olívia Vieira,6,A
-Zeca Pereira,4,C
-Kleber Barbosa,4,"A, B"
-Marta Vieira,7,B
-Isabela Vieira,6,C
-Caio Lima,5,D
-Gabriel Dias,6,C
-Ana Klein,4,A
-Pedro Medeiros,8,B
-Denise Gomes,4,"B, C"
-Gustavo Ferreira,8,"B, C"
-Beatriz Henrique,6,B
-Ana Nogueira,7,B
-Rafael Vieira,6,A
-Olívia Cardoso,8,"B, C"
-Igor Gomes,6,C
-Otávio Barbosa,7,A
-Fábio Cardoso,7,B
-Fábio Barbosa,4,B
-Daniel Yamada,7,A
-Alberto Dias,8,A
-Gustavo Pereira,7,C
-Daniel Oliveira,7,"A, B, C"
-William Silva,7,A
-Vinícius Almeida,5,D
+Ana Silva,8,Level Design
+Ana Santos,8,Level Design
+Ana Oliveira,6,Level Design
+Ana Costa,8,Level Design
+Ana Pereira,8,Level Design
+Bruno Silva,8,Level Design
+Bruno Santos,8,Level Design
+Bruno Oliveira,8,Level Design
+Bruno Costa,8,Level Design
+Bruno Pereira,6,Level Design
+Carla Silva,6,Level Design
+Carla Santos,8,Level Design
+Carla Oliveira,6,Level Design
+Carla Costa,6,Level Design
+Carla Pereira,8,Level Design
+Daniel Silva,6,Iluminação
+Daniel Santos,8,Iluminação
+Daniel Oliveira,6,Iluminação
+Daniel Costa,6,Iluminação
+Daniel Pereira,8,Iluminação
+Eduarda Silva,8,Iluminação
+Eduarda Santos,6,Iluminação
+Eduarda Oliveira,8,Iluminação
+Eduarda Costa,8,Iluminação
+Eduarda Pereira,8,Iluminação
+Fernando Silva,6,Programador
+Fernando Santos,8,Programador
+Fernando Oliveira,8,Programador
+Fernando Costa,8,Programador
+Fernando Pereira,6,Programador
+Guilherme Silva,6,Programador
+Guilherme Santos,6,Programador
+Guilherme Oliveira,8,Programador
+Guilherme Costa,6,QA
+Guilherme Pereira,8,QA
+Helena Silva,8,Modelador 3D
+Helena Santos,6,Modelador 3D
+Helena Oliveira,8,Modelador 3D
+Helena Costa,6,Modelador 3D
+Helena Pereira,6,Modelador 3D
